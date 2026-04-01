@@ -30,7 +30,7 @@ The following methods are implemented:
 
 ### Output
 
-!region bassed result.png
+![Region Output](region_output.png)
 ---
 
 ## Edge-Based Segmentation
