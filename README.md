@@ -12,9 +12,7 @@ The following methods are implemented:
 * Bilinear: Produces a smoother image using linear interpolation of neighboring pixels
 * Bicubic: Produces a sharper and higher-quality image using cubic interpolation
 
-### Output
 
-![Interpolation Output](interpolation_output.png)
 
 ---
 
@@ -28,9 +26,7 @@ The following methods are implemented:
 * Region Growing: Expands regions from a selected seed point based on similarity
 * Region Merging: Combines adjacent regions with similar characteristics
 
-### Output
 
-![Region Output](region_output.png)
 ---
 
 ## Edge-Based Segmentation
@@ -44,9 +40,6 @@ The following methods are implemented:
 * Canny Edge Detector: Multi-stage algorithm for accurate edge detection
 * Hough Transform: Detects and links edges in the form of lines
 
-### Output
-
-![Edge-Based Segmentation Output](edge_output.png)
 
 ---
 
@@ -87,5 +80,6 @@ This project illustrates the differences between interpolation techniques and de
 ## Author
 
 Aachu Anna Sony
+S4 ER
 
 
